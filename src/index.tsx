@@ -6,6 +6,7 @@ import {
   NormalizedCacheObject,
 } from '@apollo/client';
 import { cache } from './cache';
+//@ts-ignore
 import ReactDOM from 'react-dom';
 
 
